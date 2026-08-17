@@ -7,6 +7,7 @@
 | 文档 | 内容 |
 |------|------|
 | [security-audit-poc-workflow.md](security-audit-poc-workflow.md) | 漏洞管理与安全审计 PoC 工作流总结（PoC-001/PoC-002 实战沉淀） |
+| [secret-management-options.md](secret-management-options.md) | 密钥管理方案选型（Vault 与替代方案调研，2026-08） |
 
 ## 背景
 
